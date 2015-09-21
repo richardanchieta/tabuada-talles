@@ -1,0 +1,16 @@
+C:\Users\KuroMaster\Documents\Visual Studio 2010\Projects\tabuada\tabuada\bin\Debug\tabuada.exe
+C:\Users\KuroMaster\Documents\Visual Studio 2010\Projects\tabuada\tabuada\bin\Debug\tabuada.pdb
+C:\Users\KuroMaster\Documents\Visual Studio 2010\Projects\tabuada\tabuada\obj\x86\Debug\tabuada.frmTabu.resources
+C:\Users\KuroMaster\Documents\Visual Studio 2010\Projects\tabuada\tabuada\obj\x86\Debug\tabuada.Properties.Resources.resources
+C:\Users\KuroMaster\Documents\Visual Studio 2010\Projects\tabuada\tabuada\obj\x86\Debug\tabuada.csproj.GenerateResource.Cache
+C:\Users\KuroMaster\Documents\Visual Studio 2010\Projects\tabuada\tabuada\obj\x86\Debug\tabuada.exe
+C:\Users\KuroMaster\Documents\Visual Studio 2010\Projects\tabuada\tabuada\obj\x86\Debug\tabuada.pdb
+C:\Users\KuroMaster\Documents\Visual Studio 2010\Projects\tabuada\tabuada\obj\x86\Debug\tabuada.csprojResolveAssemblyReference.cache
+C:\aula\talles\tabuada\tabuada\obj\x86\Debug\tabuada.exe
+C:\aula\talles\tabuada\tabuada\obj\x86\Debug\tabuada.pdb
+C:\aula\talles\tabuada\tabuada\bin\Debug\tabuada.exe
+C:\aula\talles\tabuada\tabuada\bin\Debug\tabuada.pdb
+C:\aula\talles\tabuada\tabuada\obj\x86\Debug\tabuada.csprojResolveAssemblyReference.cache
+C:\aula\talles\tabuada\tabuada\obj\x86\Debug\tabuada.frmTabu.resources
+C:\aula\talles\tabuada\tabuada\obj\x86\Debug\tabuada.Properties.Resources.resources
+C:\aula\talles\tabuada\tabuada\obj\x86\Debug\tabuada.csproj.GenerateResource.Cache
